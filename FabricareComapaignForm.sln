@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricareComapaignForm", "FabricareComapaignForm.csproj", "{A27A08AC-2968-439B-85E5-D9B1CA4E109F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoEmailFire", "..\AutoEmailFire\AutoEmailFire.csproj", "{5545B676-C4D6-4A5D-BF10-2E3E3538D5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27A08AC-2968-439B-85E5-D9B1CA4E109F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27A08AC-2968-439B-85E5-D9B1CA4E109F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27A08AC-2968-439B-85E5-D9B1CA4E109F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27A08AC-2968-439B-85E5-D9B1CA4E109F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5545B676-C4D6-4A5D-BF10-2E3E3538D5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5545B676-C4D6-4A5D-BF10-2E3E3538D5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5545B676-C4D6-4A5D-BF10-2E3E3538D5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5545B676-C4D6-4A5D-BF10-2E3E3538D5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57CF41D6-B685-4C2E-A5B5-89D6E6C2823B}
+	EndGlobalSection
+EndGlobal
